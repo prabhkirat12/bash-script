@@ -1,0 +1,414 @@
+2024-05-23 22:44:25 - Creating user: edijkstra
+2024-05-23 22:44:25 - Email: edsger.dijkstra@tue.nl
+2024-05-23 22:44:25 - Birth Date: 1930/05/11
+2024-05-23 22:44:25 - Groups: sudo                                     staff
+2024-05-23 22:44:25 - Shared Folder: /sta
+2024-05-23 22:44:25 - Password: 051930
+2024-05-23 22:44:25 - User edijkstra created successfully.
+2024-05-23 22:44:25 - Error creating group sudo staff.
+2024-05-23 22:44:25 - Error adding user edijkstra to group sudo staff.
+2024-05-23 22:44:25 - Shared folder /sta created.
+2024-05-23 22:44:25 - Permissions set for shared folder /sta.
+2024-05-23 22:44:25 - Permissions adjusted for shared folder /sta.
+2024-05-23 22:44:25 - Link created for shared folder in /home/edijkstra.
+2024-05-23 22:44:25 - Password change enforced at first login for edijkstra.
+2024-05-23 22:44:25 - Alias 'myls' created for user edijkstra.
+2024-05-23 22:44:25 - Creating user: jmccarthy
+2024-05-23 22:44:25 - Email: john.mccarthy@caltech.edu
+2024-05-23 22:44:25 - Birth Date: 1927/09/04
+2024-05-23 22:44:25 - Groups: sudo                                  visitor
+2024-05-23 22:44:25 - Shared Folder: /v
+2024-05-23 22:44:25 - Password: 091927
+2024-05-23 22:44:25 - User jmccarthy created successfully.
+2024-05-23 22:44:25 - Error creating group sudo visitor.
+2024-05-23 22:44:25 - Error adding user jmccarthy to group sudo visitor.
+2024-05-23 22:44:25 - Shared folder /v created.
+2024-05-23 22:44:26 - Permissions set for shared folder /v.
+2024-05-23 22:44:26 - Permissions adjusted for shared folder /v.
+2024-05-23 22:44:26 - Link created for shared folder in /home/jmccarthy.
+2024-05-23 22:44:26 - Password change enforced at first login for jmccarthy.
+2024-05-23 22:44:26 - Alias 'myls' created for user jmccarthy.
+2024-05-23 22:44:26 - Creating user: atanenbaum
+2024-05-23 22:44:26 - Email: andrew.tanenbaum@vua.nl
+2024-05-23 22:44:26 - Birth Date: 1944/03/16
+2024-05-23 22:44:26 - Groups: staff
+2024-05-23 22:44:26 - Shared Folder: /staffData                        
+2024-05-23 22:44:26 - Password: 031944
+2024-05-23 22:44:26 - User atanenbaum created successfully.
+2024-05-23 22:44:26 - User atanenbaum added to group staff.
+2024-05-23 22:44:26 - Shared folder /staffData created.
+2024-05-23 22:44:26 - Permissions set for shared folder /staffData.
+2024-05-23 22:44:26 - Permissions adjusted for shared folder /staffData.
+2024-05-23 22:44:26 - Link created for shared folder in /home/atanenbaum.
+2024-05-23 22:44:26 - Password change enforced at first login for atanenbaum.
+2024-05-23 22:44:26 - Creating user: aturing
+2024-05-23 22:44:26 - Email: alan.turing@cam.ac.uk
+2024-05-23 22:44:26 - Birth Date: 1912/06/23
+2024-05-23 22:44:26 - Groups: visitor
+2024-05-23 22:44:26 - Shared Folder: /visitorData                      
+2024-05-23 22:44:26 - Password: 061912
+2024-05-23 22:44:26 - User aturing created successfully.
+2024-05-23 22:44:26 - User aturing added to group visitor.
+2024-05-23 22:44:26 - Shared folder /visitorData created.
+2024-05-23 22:44:26 - Permissions set for shared folder /visitorData.
+2024-05-23 22:44:26 - Permissions adjusted for shared folder /visitorData.
+2024-05-23 22:44:26 - Link created for shared folder in /home/aturing.
+2024-05-23 22:44:26 - Password change enforced at first login for aturing.
+2024-05-23 22:44:26 - Creating user: ltorvalds
+2024-05-23 22:44:26 - Email: linus.torvalds@linux.org
+2024-05-23 22:44:27 - Birth Date: 1969/12/28
+2024-05-23 22:44:27 - Groups: sudo
+2024-05-23 22:44:27 - Shared Folder:                                   
+2024-05-23 22:44:27 - Password: 121969
+2024-05-23 22:44:27 - User ltorvalds created successfully.
+2024-05-23 22:44:27 - User ltorvalds added to group sudo.
+2024-05-23 22:44:27 - Password change enforced at first login for ltorvalds.
+2024-05-23 22:44:27 - Alias 'myls' created for user ltorvalds.
+2024-05-23 22:44:27 - Creating user: bstroustroup
+2024-05-23 22:44:27 - Email: bjarne.stroustroup@tamu.edu
+2024-05-23 22:44:27 - Birth Date: 1950/12/30
+2024-05-23 22:44:27 - Groups: 
+2024-05-23 22:44:27 - Shared Folder: /visitorData                       
+2024-05-23 22:44:27 - Password: 121950
+2024-05-23 22:44:27 - User bstroustroup created successfully.
+2024-05-23 22:44:27 - Shared folder /visitorData created.
+2024-05-23 22:44:27 - Permissions set for shared folder /visitorData.
+2024-05-23 22:44:27 - Permissions adjusted for shared folder /visitorData.
+2024-05-23 22:44:27 - Link created for shared folder in /home/bstroustroup.
+2024-05-23 22:44:27 - Password change enforced at first login for bstroustroup.
+2024-05-23 22:44:27 - Creating user: kthompson
+2024-05-23 22:44:27 - Email: ken.thompson@google.com
+2024-05-23 22:44:27 - Birth Date: 1973/02/04
+2024-05-23 22:44:27 - Groups: sudo                                    visitor
+2024-05-23 22:44:27 - Shared Folder:   
+2024-05-23 22:44:27 - Password: 021973
+2024-05-23 22:44:27 - User kthompson created successfully.
+2024-05-23 22:44:27 - Error creating group sudo visitor.
+2024-05-23 22:44:27 - Error adding user kthompson to group sudo visitor.
+2024-05-23 22:44:27 - Password change enforced at first login for kthompson.
+2024-05-23 22:44:27 - Alias 'myls' created for user kthompson.
+2024-05-23 22:44:27 - Creating user: jgosling
+2024-05-23 22:44:27 - Email: james.gosling@sun.com
+2024-05-23 22:44:27 - Birth Date: 1955/05/19
+2024-05-23 22:44:27 - Groups: staff
+2024-05-23 22:44:27 - Shared Folder: /staffData                          
+2024-05-23 22:44:27 - Password: 051955
+2024-05-23 22:44:27 - User jgosling created successfully.
+2024-05-23 22:44:28 - User jgosling added to group staff.
+2024-05-23 22:44:28 - Shared folder /staffData created.
+2024-05-23 22:44:28 - Permissions set for shared folder /staffData.
+2024-05-23 22:44:28 - Permissions adjusted for shared folder /staffData.
+2024-05-23 22:44:28 - Link created for shared folder in /home/jgosling.
+2024-05-23 22:44:28 - Password change enforced at first login for jgosling.
+2024-05-23 22:44:28 - Creating user: tberners-lee
+2024-05-23 22:44:28 - Email: tim.berners-lee@mit.edu
+2024-05-23 22:44:28 - Birth Date: 1955/06/08
+2024-05-23 22:44:28 - Groups: sudo                                    visitor
+2024-05-23 22:44:28 - Shared Folder: /v
+2024-05-23 22:44:28 - Password: 061955
+2024-05-23 22:44:28 - User tberners-lee created successfully.
+2024-05-23 22:44:28 - Error creating group sudo visitor.
+2024-05-23 22:44:28 - Error adding user tberners-lee to group sudo visitor.
+2024-05-23 22:44:28 - Shared folder /v created.
+2024-05-23 22:44:28 - Permissions set for shared folder /v.
+2024-05-23 22:44:28 - Permissions adjusted for shared folder /v.
+2024-05-23 22:44:28 - Link created for shared folder in /home/tberners-lee.
+2024-05-23 22:44:28 - Password change enforced at first login for tberners-lee.
+2024-05-23 22:44:28 - Alias 'myls' created for user tberners-lee.
+2024-05-23 22:51:49 - Creating user: edijkstra
+2024-05-23 22:51:49 - Email: edsger.dijkstra@tue.nl
+2024-05-23 22:51:49 - Birth Date: 1930/05/11
+2024-05-23 22:51:49 - Groups: sudo                                     staff
+2024-05-23 22:51:49 - Shared Folder: /sta
+2024-05-23 22:51:49 - Password: 051930
+2024-05-23 22:51:49 - User edijkstra created successfully.
+2024-05-23 22:51:49 - Error creating group sudo staff.
+2024-05-23 22:51:49 - Error adding user edijkstra to group sudo staff.
+2024-05-23 22:51:49 - Shared folder /sta created.
+2024-05-23 22:51:49 - Permissions set for shared folder /sta.
+2024-05-23 22:51:49 - Permissions adjusted for shared folder /sta.
+2024-05-23 22:51:49 - Link created for shared folder in /home/edijkstra.
+2024-05-23 22:51:49 - Password change enforced at first login for edijkstra.
+2024-05-23 22:51:49 - Alias 'myls' created for user edijkstra.
+2024-05-23 22:51:50 - Creating user: jmccarthy
+2024-05-23 22:51:50 - Email: john.mccarthy@caltech.edu
+2024-05-23 22:51:50 - Birth Date: 1927/09/04
+2024-05-23 22:51:50 - Groups: sudo                                  visitor
+2024-05-23 22:51:50 - Shared Folder: /v
+2024-05-23 22:51:50 - Password: 091927
+2024-05-23 22:51:50 - User jmccarthy created successfully.
+2024-05-23 22:51:50 - Error creating group sudo visitor.
+2024-05-23 22:51:50 - Error adding user jmccarthy to group sudo visitor.
+2024-05-23 22:51:50 - Shared folder /v created.
+2024-05-23 22:51:50 - Permissions set for shared folder /v.
+2024-05-23 22:51:50 - Permissions adjusted for shared folder /v.
+2024-05-23 22:51:50 - Link created for shared folder in /home/jmccarthy.
+2024-05-23 22:51:50 - Password change enforced at first login for jmccarthy.
+2024-05-23 22:51:50 - Alias 'myls' created for user jmccarthy.
+2024-05-23 22:51:50 - Creating user: atanenbaum
+2024-05-23 22:51:50 - Email: andrew.tanenbaum@vua.nl
+2024-05-23 22:51:50 - Birth Date: 1944/03/16
+2024-05-23 22:51:50 - Groups: staff
+2024-05-23 22:51:50 - Shared Folder: /staffData                        
+2024-05-23 22:51:50 - Password: 031944
+2024-05-23 22:51:50 - User atanenbaum created successfully.
+2024-05-23 22:51:50 - User atanenbaum added to group staff.
+2024-05-23 22:51:51 - Shared folder /staffData created.
+2024-05-23 22:51:51 - Permissions set for shared folder /staffData.
+2024-05-23 22:51:51 - Permissions adjusted for shared folder /staffData.
+2024-05-23 22:51:51 - Link created for shared folder in /home/atanenbaum.
+2024-05-23 22:51:51 - Password change enforced at first login for atanenbaum.
+2024-05-23 22:51:51 - Creating user: aturing
+2024-05-23 22:51:51 - Email: alan.turing@cam.ac.uk
+2024-05-23 22:51:51 - Birth Date: 1912/06/23
+2024-05-23 22:51:51 - Groups: visitor
+2024-05-23 22:51:51 - Shared Folder: /visitorData                      
+2024-05-23 22:51:51 - Password: 061912
+2024-05-23 22:51:51 - User aturing created successfully.
+2024-05-23 22:51:51 - User aturing added to group visitor.
+2024-05-23 22:51:51 - Shared folder /visitorData created.
+2024-05-23 22:51:51 - Permissions set for shared folder /visitorData.
+2024-05-23 22:51:51 - Permissions adjusted for shared folder /visitorData.
+2024-05-23 22:51:51 - Link created for shared folder in /home/aturing.
+2024-05-23 22:51:51 - Password change enforced at first login for aturing.
+2024-05-23 22:51:51 - Creating user: ltorvalds
+2024-05-23 22:51:51 - Email: linus.torvalds@linux.org
+2024-05-23 22:51:51 - Birth Date: 1969/12/28
+2024-05-23 22:51:51 - Groups: sudo
+2024-05-23 22:51:51 - Shared Folder:                                   
+2024-05-23 22:51:51 - Password: 121969
+2024-05-23 22:51:51 - User ltorvalds created successfully.
+2024-05-23 22:51:51 - User ltorvalds added to group sudo.
+2024-05-23 22:51:51 - Password change enforced at first login for ltorvalds.
+2024-05-23 22:51:51 - Alias 'myls' created for user ltorvalds.
+2024-05-23 22:51:51 - Creating user: bstroustroup
+2024-05-23 22:51:51 - Email: bjarne.stroustroup@tamu.edu
+2024-05-23 22:51:51 - Birth Date: 1950/12/30
+2024-05-23 22:51:51 - Groups: 
+2024-05-23 22:51:51 - Shared Folder: /visitorData                       
+2024-05-23 22:51:51 - Password: 121950
+2024-05-23 22:51:52 - User bstroustroup created successfully.
+2024-05-23 22:51:52 - Shared folder /visitorData created.
+2024-05-23 22:51:52 - Permissions set for shared folder /visitorData.
+2024-05-23 22:51:52 - Permissions adjusted for shared folder /visitorData.
+2024-05-23 22:51:52 - Link created for shared folder in /home/bstroustroup.
+2024-05-23 22:51:52 - Password change enforced at first login for bstroustroup.
+2024-05-23 22:51:52 - Creating user: kthompson
+2024-05-23 22:51:52 - Email: ken.thompson@google.com
+2024-05-23 22:51:52 - Birth Date: 1973/02/04
+2024-05-23 22:51:52 - Groups: sudo                                    visitor
+2024-05-23 22:51:52 - Shared Folder:   
+2024-05-23 22:51:52 - Password: 021973
+2024-05-23 22:51:52 - User kthompson created successfully.
+2024-05-23 22:51:52 - Error creating group sudo visitor.
+2024-05-23 22:51:52 - Error adding user kthompson to group sudo visitor.
+2024-05-23 22:51:52 - Password change enforced at first login for kthompson.
+2024-05-23 22:51:52 - Alias 'myls' created for user kthompson.
+2024-05-23 22:51:52 - Creating user: jgosling
+2024-05-23 22:51:52 - Email: james.gosling@sun.com
+2024-05-23 22:51:52 - Birth Date: 1955/05/19
+2024-05-23 22:51:52 - Groups: staff
+2024-05-23 22:51:52 - Shared Folder: /staffData                          
+2024-05-23 22:51:52 - Password: 051955
+2024-05-23 22:51:52 - User jgosling created successfully.
+2024-05-23 22:51:52 - User jgosling added to group staff.
+2024-05-23 22:51:52 - Shared folder /staffData created.
+2024-05-23 22:51:52 - Permissions set for shared folder /staffData.
+2024-05-23 22:51:52 - Permissions adjusted for shared folder /staffData.
+2024-05-23 22:51:52 - Link created for shared folder in /home/jgosling.
+2024-05-23 22:51:52 - Password change enforced at first login for jgosling.
+2024-05-23 22:51:52 - Creating user: tberners-lee
+2024-05-23 22:51:52 - Email: tim.berners-lee@mit.edu
+2024-05-23 22:51:52 - Birth Date: 1955/06/08
+2024-05-23 22:51:52 - Groups: sudo                                    visitor
+2024-05-23 22:51:52 - Shared Folder: /v
+2024-05-23 22:51:52 - Password: 061955
+2024-05-23 22:51:52 - User tberners-lee created successfully.
+2024-05-23 22:51:53 - Error creating group sudo visitor.
+2024-05-23 22:51:53 - Error adding user tberners-lee to group sudo visitor.
+2024-05-23 22:51:53 - Shared folder /v created.
+2024-05-23 22:51:53 - Permissions set for shared folder /v.
+2024-05-23 22:51:53 - Permissions adjusted for shared folder /v.
+2024-05-23 22:51:53 - Link created for shared folder in /home/tberners-lee.
+2024-05-23 22:51:53 - Password change enforced at first login for tberners-lee.
+2024-05-23 22:51:53 - Alias 'myls' created for user tberners-lee.
+2024-05-23 22:54:25 - Creating user: edijkstra
+2024-05-23 22:54:25 - Email: edsger.dijkstra@tue.nl
+2024-05-23 22:54:25 - Birth Date: 1930/05/11
+2024-05-23 22:54:25 - Groups: sudo                                     staff
+2024-05-23 22:54:25 - Shared Folder: /sta
+2024-05-23 22:54:25 - Password: 051930
+2024-05-23 22:54:25 - Error creating user edijkstra.
+2024-05-23 22:54:25 - Creating user: jmccarthy
+2024-05-23 22:54:25 - Email: john.mccarthy@caltech.edu
+2024-05-23 22:54:25 - Birth Date: 1927/09/04
+2024-05-23 22:54:25 - Groups: sudo                                  visitor
+2024-05-23 22:54:25 - Shared Folder: /v
+2024-05-23 22:54:25 - Password: 091927
+2024-05-23 22:54:25 - Error creating user jmccarthy.
+2024-05-23 22:54:25 - Creating user: atanenbaum
+2024-05-23 22:54:25 - Email: andrew.tanenbaum@vua.nl
+2024-05-23 22:54:25 - Birth Date: 1944/03/16
+2024-05-23 22:54:25 - Groups: staff
+2024-05-23 22:54:25 - Shared Folder: /staffData                        
+2024-05-23 22:54:25 - Password: 031944
+2024-05-23 22:54:25 - Error creating user atanenbaum.
+2024-05-23 22:54:25 - Creating user: aturing
+2024-05-23 22:54:25 - Email: alan.turing@cam.ac.uk
+2024-05-23 22:54:25 - Birth Date: 1912/06/23
+2024-05-23 22:54:25 - Groups: visitor
+2024-05-23 22:54:25 - Shared Folder: /visitorData                      
+2024-05-23 22:54:25 - Password: 061912
+2024-05-23 22:54:26 - Error creating user aturing.
+2024-05-23 22:54:26 - Creating user: ltorvalds
+2024-05-23 22:54:26 - Email: linus.torvalds@linux.org
+2024-05-23 22:54:26 - Birth Date: 1969/12/28
+2024-05-23 22:54:26 - Groups: sudo
+2024-05-23 22:54:26 - Shared Folder:                                   
+2024-05-23 22:54:26 - Password: 121969
+2024-05-23 22:54:26 - Error creating user ltorvalds.
+2024-05-23 22:54:26 - Creating user: bstroustroup
+2024-05-23 22:54:26 - Email: bjarne.stroustroup@tamu.edu
+2024-05-23 22:54:26 - Birth Date: 1950/12/30
+2024-05-23 22:54:26 - Groups: 
+2024-05-23 22:54:26 - Shared Folder: /visitorData                       
+2024-05-23 22:54:26 - Password: 121950
+2024-05-23 22:54:26 - Error creating user bstroustroup.
+2024-05-23 22:54:26 - Creating user: kthompson
+2024-05-23 22:54:26 - Email: ken.thompson@google.com
+2024-05-23 22:54:26 - Birth Date: 1973/02/04
+2024-05-23 22:54:26 - Groups: sudo                                    visitor
+2024-05-23 22:54:26 - Shared Folder:   
+2024-05-23 22:54:26 - Password: 021973
+2024-05-23 22:54:26 - Error creating user kthompson.
+2024-05-23 22:54:26 - Creating user: jgosling
+2024-05-23 22:54:26 - Email: james.gosling@sun.com
+2024-05-23 22:54:26 - Birth Date: 1955/05/19
+2024-05-23 22:54:26 - Groups: staff
+2024-05-23 22:54:26 - Shared Folder: /staffData                          
+2024-05-23 22:54:26 - Password: 051955
+2024-05-23 22:54:26 - Error creating user jgosling.
+2024-05-23 22:54:26 - Creating user: tberners-lee
+2024-05-23 22:54:26 - Email: tim.berners-lee@mit.edu
+2024-05-23 22:54:26 - Birth Date: 1955/06/08
+2024-05-23 22:54:26 - Groups: sudo                                    visitor
+2024-05-23 22:54:26 - Shared Folder: /v
+2024-05-23 22:54:26 - Password: 061955
+2024-05-23 22:54:26 - Error creating user tberners-lee.
+2024-05-23 22:55:06 - Creating user: edijkstra
+2024-05-23 22:55:06 - Email: edsger.dijkstra@tue.nl
+2024-05-23 22:55:06 - Birth Date: 1930/05/11
+2024-05-23 22:55:06 - Groups: sudo                                     staff
+2024-05-23 22:55:06 - Shared Folder: /sta
+2024-05-23 22:55:06 - Password: 051930
+2024-05-23 22:55:06 - User edijkstra created successfully.
+2024-05-23 22:55:07 - User edijkstra added to group sudo.
+2024-05-23 22:55:07 - User edijkstra added to group staff.
+2024-05-23 22:55:07 - Shared folder /sta created.
+2024-05-23 22:55:07 - Permissions set for shared folder /sta.
+2024-05-23 22:55:07 - Permissions adjusted for shared folder /sta.
+2024-05-23 22:55:07 - Link created for shared folder in /home/edijkstra.
+2024-05-23 22:55:07 - Password change enforced at first login for edijkstra.
+2024-05-23 22:55:07 - Alias 'myls' created for user edijkstra.
+2024-05-23 22:55:07 - Creating user: jmccarthy
+2024-05-23 22:55:07 - Email: john.mccarthy@caltech.edu
+2024-05-23 22:55:07 - Birth Date: 1927/09/04
+2024-05-23 22:55:07 - Groups: sudo                                  visitor
+2024-05-23 22:55:07 - Shared Folder: /v
+2024-05-23 22:55:07 - Password: 091927
+2024-05-23 22:55:07 - User jmccarthy created successfully.
+2024-05-23 22:55:07 - User jmccarthy added to group sudo.
+2024-05-23 22:55:07 - User jmccarthy added to group visitor.
+2024-05-23 22:55:07 - Shared folder /v created.
+2024-05-23 22:55:07 - Permissions set for shared folder /v.
+2024-05-23 22:55:07 - Permissions adjusted for shared folder /v.
+2024-05-23 22:55:07 - Link created for shared folder in /home/jmccarthy.
+2024-05-23 22:55:07 - Password change enforced at first login for jmccarthy.
+2024-05-23 22:55:07 - Alias 'myls' created for user jmccarthy.
+2024-05-23 22:55:07 - Creating user: atanenbaum
+2024-05-23 22:55:07 - Email: andrew.tanenbaum@vua.nl
+2024-05-23 22:55:07 - Birth Date: 1944/03/16
+2024-05-23 22:55:07 - Groups: staff
+2024-05-23 22:55:07 - Shared Folder: /staffData                        
+2024-05-23 22:55:07 - Password: 031944
+2024-05-23 22:55:07 - User atanenbaum created successfully.
+2024-05-23 22:55:07 - User atanenbaum added to group staff.
+2024-05-23 22:55:07 - Shared folder /staffData created.
+2024-05-23 22:55:07 - Permissions set for shared folder /staffData.
+2024-05-23 22:55:07 - Permissions adjusted for shared folder /staffData.
+2024-05-23 22:55:07 - Link created for shared folder in /home/atanenbaum.
+2024-05-23 22:55:08 - Password change enforced at first login for atanenbaum.
+2024-05-23 22:55:08 - Creating user: aturing
+2024-05-23 22:55:08 - Email: alan.turing@cam.ac.uk
+2024-05-23 22:55:08 - Birth Date: 1912/06/23
+2024-05-23 22:55:08 - Groups: visitor
+2024-05-23 22:55:08 - Shared Folder: /visitorData                      
+2024-05-23 22:55:08 - Password: 061912
+2024-05-23 22:55:08 - User aturing created successfully.
+2024-05-23 22:55:08 - User aturing added to group visitor.
+2024-05-23 22:55:08 - Shared folder /visitorData created.
+2024-05-23 22:55:08 - Permissions set for shared folder /visitorData.
+2024-05-23 22:55:08 - Permissions adjusted for shared folder /visitorData.
+2024-05-23 22:55:08 - Link created for shared folder in /home/aturing.
+2024-05-23 22:55:08 - Password change enforced at first login for aturing.
+2024-05-23 22:55:08 - Creating user: ltorvalds
+2024-05-23 22:55:08 - Email: linus.torvalds@linux.org
+2024-05-23 22:55:08 - Birth Date: 1969/12/28
+2024-05-23 22:55:08 - Groups: sudo
+2024-05-23 22:55:08 - Shared Folder:                                   
+2024-05-23 22:55:08 - Password: 121969
+2024-05-23 22:55:08 - User ltorvalds created successfully.
+2024-05-23 22:55:08 - User ltorvalds added to group sudo.
+2024-05-23 22:55:08 - Password change enforced at first login for ltorvalds.
+2024-05-23 22:55:08 - Alias 'myls' created for user ltorvalds.
+2024-05-23 22:55:08 - Creating user: bstroustroup
+2024-05-23 22:55:08 - Email: bjarne.stroustroup@tamu.edu
+2024-05-23 22:55:08 - Birth Date: 1950/12/30
+2024-05-23 22:55:08 - Groups: 
+2024-05-23 22:55:08 - Shared Folder: /visitorData                       
+2024-05-23 22:55:08 - Password: 121950
+2024-05-23 22:55:08 - User bstroustroup created successfully.
+2024-05-23 22:55:08 - Shared folder /visitorData created.
+2024-05-23 22:55:08 - Permissions set for shared folder /visitorData.
+2024-05-23 22:55:08 - Permissions adjusted for shared folder /visitorData.
+2024-05-23 22:55:08 - Link created for shared folder in /home/bstroustroup.
+2024-05-23 22:55:09 - Password change enforced at first login for bstroustroup.
+2024-05-23 22:55:09 - Creating user: kthompson
+2024-05-23 22:55:09 - Email: ken.thompson@google.com
+2024-05-23 22:55:09 - Birth Date: 1973/02/04
+2024-05-23 22:55:09 - Groups: sudo                                    visitor
+2024-05-23 22:55:09 - Shared Folder:   
+2024-05-23 22:55:09 - Password: 021973
+2024-05-23 22:55:09 - User kthompson created successfully.
+2024-05-23 22:55:09 - User kthompson added to group sudo.
+2024-05-23 22:55:09 - User kthompson added to group visitor.
+2024-05-23 22:55:09 - Password change enforced at first login for kthompson.
+2024-05-23 22:55:09 - Alias 'myls' created for user kthompson.
+2024-05-23 22:55:09 - Creating user: jgosling
+2024-05-23 22:55:09 - Email: james.gosling@sun.com
+2024-05-23 22:55:09 - Birth Date: 1955/05/19
+2024-05-23 22:55:09 - Groups: staff
+2024-05-23 22:55:09 - Shared Folder: /staffData                          
+2024-05-23 22:55:09 - Password: 051955
+2024-05-23 22:55:09 - User jgosling created successfully.
+2024-05-23 22:55:09 - User jgosling added to group staff.
+2024-05-23 22:55:09 - Shared folder /staffData created.
+2024-05-23 22:55:09 - Permissions set for shared folder /staffData.
+2024-05-23 22:55:09 - Permissions adjusted for shared folder /staffData.
+2024-05-23 22:55:09 - Link created for shared folder in /home/jgosling.
+2024-05-23 22:55:09 - Password change enforced at first login for jgosling.
+2024-05-23 22:55:09 - Creating user: tberners-lee
+2024-05-23 22:55:09 - Email: tim.berners-lee@mit.edu
+2024-05-23 22:55:09 - Birth Date: 1955/06/08
+2024-05-23 22:55:09 - Groups: sudo                                    visitor
+2024-05-23 22:55:09 - Shared Folder: /v
+2024-05-23 22:55:09 - Password: 061955
+2024-05-23 22:55:09 - User tberners-lee created successfully.
+2024-05-23 22:55:09 - User tberners-lee added to group sudo.
+2024-05-23 22:55:10 - User tberners-lee added to group visitor.
+2024-05-23 22:55:10 - Shared folder /v created.
+2024-05-23 22:55:10 - Permissions set for shared folder /v.
+2024-05-23 22:55:10 - Permissions adjusted for shared folder /v.
+2024-05-23 22:55:10 - Link created for shared folder in /home/tberners-lee.
+2024-05-23 22:55:10 - Password change enforced at first login for tberners-lee.
+2024-05-23 22:55:10 - Alias 'myls' created for user tberners-lee.
